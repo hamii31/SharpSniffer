@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficDecryptor", "TrafficDecryptor\TrafficDecryptor.csproj", "{A0CA60EA-F8BD-4A05-9E59-78D57886FC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CA60EA-F8BD-4A05-9E59-78D57886FC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CA60EA-F8BD-4A05-9E59-78D57886FC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CA60EA-F8BD-4A05-9E59-78D57886FC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CA60EA-F8BD-4A05-9E59-78D57886FC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6DD28D0-EA13-40A5-A9B0-1D825DEFB016}
+	EndGlobalSection
+EndGlobal
